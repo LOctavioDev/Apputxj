@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fundamentals DSM4A</string>
+    <string name="btn_login">Iniciar</string>
+    <string name="su">Suma</string>
+    <string name="username">Username</string>
+    <string name="password_value">Password</string>
+</resources>
